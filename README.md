@@ -1,4 +1,6 @@
 # Select_and_Copy
+<img width="609" height="672" alt="firstglance" src="https://github.com/user-attachments/assets/51581bdb-7b57-4cab-9b2e-948c2a96da51" />
+
 English version of README below
 
 Une application légère en Python permettant de copier automatiquement des fichiers sélectionnés à partir d’un fichier CSV.
